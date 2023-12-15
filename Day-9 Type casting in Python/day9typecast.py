@@ -31,4 +31,5 @@ print(type(y))
 # Python automatically converts z to float as it is x float addition
 z = x + y
 print(z)
+#type of z
 print(type(z))
