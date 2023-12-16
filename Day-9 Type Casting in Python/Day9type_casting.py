@@ -1,9 +1,11 @@
 # Type  casting : in built in functions 
 # int(), float(), hex(), oct(), str(), etc .
+
 a = "1"
 b = "2"
 print(a+b) #a & b are known as str so a+b =12
 # convert type
+
 print(int(a)+int(b)) # out : 3
 #type converstion
 c = 1.9
