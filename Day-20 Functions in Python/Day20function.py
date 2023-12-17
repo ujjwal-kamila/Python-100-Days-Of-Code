@@ -1,4 +1,5 @@
 # Functions in Python
+
 def calculateGmean(a, b):
   mean = (a*b)/(a+b)   #fun defination
   print(mean)
@@ -23,5 +24,6 @@ c = 8
 d = 74
 isGreater(c, d)
 calculateGmean(c, d)
+
 # gmean2 = (c*d)/(c+d)
 # print(gmean2)

@@ -1,6 +1,7 @@
 # First python Program
 
 print("Hello World")
+
 print(15)
 
 #This is a single line comment ...by using "ctrl+/"

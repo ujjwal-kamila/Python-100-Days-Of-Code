@@ -28,17 +28,21 @@ if "ujw" in "Ujjwal":
 else:
     print("No")
 
+
 # print(marks) #prints all elem in marks 
 # print(marks[:])  #prints all elem in marks 
 # print(marks[1:-1])
 # print(marks[1:8])
 # print(marks[1:8:2])  #jump index is 2 so jump 2
 
+
 lst = [i for i  in range(10)]
 print(lst)  #print whole list
 
+
 lst = [i*i for i  in range(10)]
 print(lst)  #print whole list
+
 
 lst = [i*i for i  in range(10) if i%2==0] # divisable by 2 Even numbers 
 print(lst)  #print whole list

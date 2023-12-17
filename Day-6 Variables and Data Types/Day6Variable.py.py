@@ -2,11 +2,13 @@ a = 1  # type int
 b = True  #type "Bool"
 c = "Ujjwal"  # ""type sting
 d = None   # none type
+
 print(a)
 print(b)
 a1 = 10
 print(a+a1)
-#types 
+
+#types of a b c d 
 print("The type of a is : ",type(a))
 print("The type of b is : ",type(b))
 print("The type of c is : ",type(c))

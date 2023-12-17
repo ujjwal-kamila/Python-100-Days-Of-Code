@@ -6,7 +6,7 @@
 # print("Done from the loop")
 
 #take input from user
-i = int(input("Enter the number :"))
+i = int(input("Enter the number :- "))
 while(i<=3):
     i = int(input("Enter the number :"))
     print(i)

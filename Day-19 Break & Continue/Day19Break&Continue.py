@@ -2,7 +2,7 @@
 for i in range(12):
   if(i == 10):
     break
-    print("exit the loop")
+    print("exit from the loop")
   print("5 X", i, "=", 5 * (i+1))
 
 #continue statement

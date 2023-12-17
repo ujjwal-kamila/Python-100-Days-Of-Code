@@ -27,6 +27,8 @@ l = [1,2,4,6,8,1]
 # print(l)  
 m = [100,200,500]
 k = l+m
+
 print(k) # take a new list 
+
 # l.extend(m) #add m list to l list
 print(l) # l remain same

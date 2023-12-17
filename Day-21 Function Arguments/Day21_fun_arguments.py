@@ -1,5 +1,6 @@
 # # Functions Arguments 
 # pass arguments and bulk arguments
+
 #required argumments
 def average(a,b):
     print("The average is : ",(a+b)/2)
@@ -10,15 +11,20 @@ def average(a=5,b=4):
     print("The average is : ",(a+b)/2)
 average(4) # takes that a=4 and b remain same returns 4 as avg
 
+
+
 #default arguments
 def average(a=10,b=12):
     print("The average is : ",(a+b)/2)
 average(b=4) # takes that b=4 and b remain same returns 7 as avg
 
+
+
 #default arguments 
 def name(fname, mname = "kumar", lname = "Kamila"):
     print("Hello,", fname, mname, lname)
 name("Ujjwal")
+
 
 # keyword arguments
 def name(fname, mname, lname):
@@ -26,20 +32,24 @@ def name(fname, mname, lname):
 
 name(mname = "Kumar", lname = "Kamila", fname = "Ujjwal")
 
+
 #required argumments
 # def name(fname, mname, lname):
 #     print("Hello,", fname, mname, lname)
 # name("ujjwal", "kamila")  #Through Error
+
 
 #required argumments
 def name(fname, mname, lname):
     print("Hello,", fname, mname, lname)
 name("ujjwal", "kumar", "kamila")
 
+
 #Variable-length arguments:
 def name(*name):
     print("Hii,", name[0], name[1], name[2])
 name("Ujjwal", "Kumar", "kamila")
+
 
 
 # def average(a, b, c=1):

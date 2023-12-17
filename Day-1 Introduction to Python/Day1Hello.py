@@ -1,5 +1,6 @@
 # printing string in python
 print("Hello World") #"" means a string
+
 print(5)
 
 #This is a single line comment ...by using "ctrl+/"
