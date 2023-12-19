@@ -25,5 +25,6 @@ print(tuple2)
 
 if  3421 in tup:
   print("Yes 3421 is present in this tuple")
+  
 tup2 = tup[1:4]
 print(tup2)

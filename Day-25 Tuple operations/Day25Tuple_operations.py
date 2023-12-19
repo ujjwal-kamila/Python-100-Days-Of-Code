@@ -11,6 +11,7 @@ print('Count of 3 in tuple 1 is :',res)
 
 countries = ("Spain", "Italy", "India", "England", "Germany")
 temp = list(countries)
+
 temp.append("Russia")       #add item 
 temp.pop(3)                 #remove item
 temp[2] = "Finland"         #change item
@@ -21,4 +22,5 @@ print(countries)
 countries = ("Pakistan", "Afghanistan", "Bangladesh", "ShriLanka")  # tuple 1
 countries2 = ("Vietnam", "India", "China")                           # tuple 2
 southEastAsia = countries + countries2
+
 print(southEastAsia)

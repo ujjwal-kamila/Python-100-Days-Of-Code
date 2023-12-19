@@ -25,6 +25,7 @@ l = [1,2,4,6,8,1]
 # #insert in index 
 # l.insert(1,100)  # put 100 ib 1th index
 # print(l)  
+
 m = [100,200,500]
 k = l+m
 
