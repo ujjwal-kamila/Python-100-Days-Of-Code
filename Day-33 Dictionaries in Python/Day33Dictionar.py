@@ -1,6 +1,5 @@
 # Day-33 Dictionaries in Python
 
-
 # dic = {
 #     "Ujjwal" : "Human being ",
 #     "Book": "Object"
@@ -9,9 +8,11 @@
 
 info = {'name':'Ujjwal','age':19 ,'eligible':True}
 print(info)
+
 #Acessing single values 
 print(info['name'])
 print(info.get('eligible'))
+
 #Acessing Multiple values 
 print(info.values())
 
@@ -25,7 +26,9 @@ for key, value in info.items():
 
 # #Acessing keys 
 # info = {'name':'Ujjwal', 'age':19, 'eligible':True}
+
 # print(info.keys())
 # #Accessing key-value pairs
 # info = {'name':'Ujjwal', 'age':19, 'eligible':True}
+
 # print(info.items())
