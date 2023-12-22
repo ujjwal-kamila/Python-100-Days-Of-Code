@@ -1,5 +1,10 @@
 # #Day-36 Error Handeling or Exception Handling in Python
-
+#Syntax in ''' '''
+'''try:
+     #statements which could generate 
+     #exception
+except:
+     #Soloution of generated exception'''
 # # Multiplication Table 
 # a = input("Enter the Number : ")
 # print(f"Multiplication table of {a} is : ")
