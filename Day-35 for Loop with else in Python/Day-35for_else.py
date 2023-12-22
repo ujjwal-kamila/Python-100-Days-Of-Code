@@ -1,4 +1,13 @@
 # Day-35 For loop with else statement
+#syntax 
+
+'''for counter in sequence:
+    #Statements inside for loop block
+else:
+    #Statements inside else block'''
+    
+
+
 # for i in range(5):
 #     print(i)
 #     if i==4:
