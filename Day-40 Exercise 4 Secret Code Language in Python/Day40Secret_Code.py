@@ -25,6 +25,7 @@ def Coding(letter, Made_by_Ujjwal):
   input()
   print('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
+#Decoding 
 def Decoding(Made_by_Ujjwal):    #
   x = -2
   Unencrypt = ''
