@@ -5,6 +5,8 @@
 
 # Create a lit data type to store questions and their correct answers
 # Display the final amount the persn is taking home after playing the game
+
+
 print(" Welcome to KBC Game 🙏️🙏️ 🎮️  👉️👉️👉️👉️ Created By Ujjwal Kamila 😎️ ")
 
 Questions = [
@@ -26,7 +28,7 @@ Questions = [
     "Why are you not Out yet: (A)Cheating (B)Very high IQ (C)Random Geuss (D)Dont Know"
 ]
 
-# Sample answers
+# Sample answers of all Questions 
 Answers = [
     "C", "C", "C", "C", "D", "B", "A", "A", "B", "A", "B", "D", "B", "C", "A",
     "C"
@@ -41,6 +43,8 @@ def KBC(Questions, Answers):
     print(Questions[i])
     Answer = input("What is the Answer  the clock is ticking:")
 
+
+
     if (Answer == Answers[i]):
       if (i != 15):
         money = money + i * i * 70000
@@ -51,6 +55,7 @@ def KBC(Questions, Answers):
         print("Congratulations! You have won the KBC and you win", money,
               "rupees!")
         break
+
 
     elif (Answer != Answers[i]):
       print("The Answer is incorrect")
