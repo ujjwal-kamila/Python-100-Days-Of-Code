@@ -1,5 +1,5 @@
 # Day-33 Dictionaries in Python
-
+# syntax 
 # dic = {
 #     "Ujjwal" : "Human being ",
 #     "Book": "Object"
