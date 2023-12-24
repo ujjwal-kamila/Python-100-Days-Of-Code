@@ -1,8 +1,6 @@
 # Day-39 Exercise-3 KBC Game Solution in Python
 
-# Create a program capable of displaying questions to the user like KBC. Use List data type to store the questions and their correct answers. Display the final amount the person is taking home after playing the game.
-
-
+# Create a program capable of displaying questions to the user like KBC. Use List data type to store the questions and their correct answers. Display the final amount the person is taking home after playing the game
 # Create a lit data type to store questions and their correct answers
 # Display the final amount the persn is taking home after playing the game
 
