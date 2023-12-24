@@ -6,7 +6,6 @@
 # if(a<5 or a>20):
 #     raise ValueError("Value should be in between 5 and 20")
 
-
 # Exercise 
 a = int(input("Enter any value between 5 and 9 : "))
 
