@@ -13,7 +13,7 @@ print("C =",c)
 # result = value_if true if condition  else value_if false
 
 # same expression in complex way !
-#syntax: 
+#syntax : 
 '''
 if condition:
     result = value_if_true
