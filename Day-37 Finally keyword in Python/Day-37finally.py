@@ -1,4 +1,5 @@
 # Day-37 Finally keyword in Python
+
 #Syntax is below in  ''' '''
 '''try:
    #statements which could generate 
@@ -8,7 +9,6 @@ except:
 finally:
     #block of code which is going to 
     #execute in any situation'''
-
 
 # always execute the code that is done by finally keyword
 def func1():
