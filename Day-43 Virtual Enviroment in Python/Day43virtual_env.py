@@ -14,11 +14,11 @@
 "myenv\Scripts\activate.bat"
 '''
 
-# Deactivate the virtual environment
+# To Deactivate the virtual environment run : ->
 # deactivate
 
-# Output the list of installed packages and their versions to a file
+# Output the list of installed packages and their versions to a file run : ->
 # pip freeze > requirements.txt
 
-# Install the packages listed in the requirements.txt file
+# Install the packages listed in the requirements.txt file run : ->
 # pip install -r requirements.txt
