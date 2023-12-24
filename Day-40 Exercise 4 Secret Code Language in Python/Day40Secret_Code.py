@@ -61,7 +61,6 @@ for i in range(100):
     exit()
   else:
     print("Please!!!, Enter your choose with Proper Spelling")
-
-
-#Code:     'hi sir' --> 'hgid assibrh'
-#Decode:   'hgid assibrh' --> 'hi sir''
+    
+#Coding:     'hi sir' --> 'hgid assibrh'
+#Decoding:   'hgid assibrh' --> 'hi sir''
