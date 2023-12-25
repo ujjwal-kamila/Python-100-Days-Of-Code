@@ -19,13 +19,11 @@ import math as m
 result = m.sqrt(9) * m.pi
 print(result)
 
-
 # To see the dictonary of math fun
 import math
 print(dir(math))
 print(math.nan , type(math.nan))  # nan <class 'float>
 print() # this is a new line
-
 
 from Day44import import welcome,ujjwal
 welcome()
