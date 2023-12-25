@@ -27,13 +27,13 @@ print(math.nan , type(math.nan))  # nan <class 'float>
 print() # this is a new line
 
 
-from day44import import welcome,ujjwal
+from Day44import import welcome,ujjwal
 welcome()
 print(ujjwal)
 
 print() # this is a new line
 
-import day44import as dy
+import Day44import as dy
 dy.welcome()
 print(dy.ujjwal)
 
