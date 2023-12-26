@@ -44,7 +44,7 @@ else:
   print(" ".join(nwords))
 
 
-# # Same ans using Function
+# # Same ans using Function ->
 # # Function to translate a message into secret code language based on specific rules
 # # Rules:
 # # - For words with 3 or more characters: Remove the first letter, append it at the end, and add three random characters at the start and end
