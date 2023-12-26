@@ -1,5 +1,6 @@
 # Day-46 Os module in Python
-#to create 1-100folders 
+
+#to create 1-100 folders 
 # import os
 # if(not os.path.exists("data")):
 #     os.mkdir("Python") # create a folder name  "Python"
