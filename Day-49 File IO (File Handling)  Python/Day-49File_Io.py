@@ -19,6 +19,7 @@ f.write('Hello, world!')
 #Closing a File
 f.close()
 
+# The 'with' statement
 with open('myfile.txt', 'a') as f:
   f.write("Hey I am inside with")
   
