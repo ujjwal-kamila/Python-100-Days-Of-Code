@@ -1,5 +1,4 @@
-Modes in file
-
+Modes in file : 
 
 There are various modes in which we can open files.
 
