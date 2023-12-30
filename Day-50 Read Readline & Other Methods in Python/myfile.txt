@@ -1,16 +1,11 @@
-Modes in file : 
+readlines() method :
 
-There are various modes in which we can open files.
+The readline() method reads a single line from the file. If we want to read multiple lines, we can use a loop.
 
-1.read (r): This mode opens the file for reading only and gives an error if the file does not exist. This is the default mode if no mode is passed as a parameter.
 
-2.write (w): This mode opens the file for writing only and creates a new file if the file does not exist.
+The readlines() method reads all the lines of the file and returns them as a list of strings.
 
-3.append (a): This mode opens the file for appending only and creates a new file if the file does not exist.
+writelines() method :
 
-4.create (x): This mode creates a file and gives an error if the file already exists.
 
-5.text (t): Apart from these modes we also need to specify how the file must be handled. t mode is used to handle text files. t refers to the text mode. There is no difference between r and rt or w and wt since text mode is the default. The default mode is 'r' (open for reading text, synonym of 'rt' ).
-
-6.binary (b): used to handle binary files (images, pdfs, etc).
-
+The writelines() method in Python writes a sequence of strings to a file. The sequence can be any iterable object, such as a list or a tuple.
