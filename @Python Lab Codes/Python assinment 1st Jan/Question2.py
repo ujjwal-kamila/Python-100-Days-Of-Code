@@ -1,4 +1,6 @@
-
+##2. From the above-generated file, against each pdb id generate accession codes combinations of two and store them for each pdb id. 
+# for example: pdb id say, ix2b and access codes are a, b, c. Then store then this way,
+# ix2b: [[a,b],[b,c],[c,a]]
 
 # 2nd Part 
 import pandas as pd
