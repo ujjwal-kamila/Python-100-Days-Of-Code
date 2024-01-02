@@ -3,7 +3,7 @@
 
 import pandas as pd
 # Read the CSV file
-data_frame = pd.read_csv('homo_sapiens.csv')
+data_frame = pd.read_csv('Homo_sapiens.csv')
 
 # Custom function to fill empty blocks in a column 
 def custom_ffill(column):
