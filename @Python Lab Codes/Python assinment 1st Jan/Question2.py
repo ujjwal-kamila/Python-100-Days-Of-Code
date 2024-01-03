@@ -18,7 +18,7 @@ for index, rows in df.iterrows():
     accession_codes = str(rows['Accession Code(s)']).split(',')
     combinations = []
 
-    # Generating combinations 
+    # Generating file combinations 
     for i in range(len(accession_codes)):
         for j in range(i + 1, len(accession_codes)):
             combinations.append([accession_codes[i], accession_codes[j]])
