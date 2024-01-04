@@ -1,7 +1,7 @@
 import pandas as pd
 file1_path = "accession_code_combinations.csv.csv"
 df1 = pd.read_csv(file1_path)
-file2_path = "e_file2.csv"
+file2_path = "e_file.csv"
 df2 = pd.read_csv(file2_path, header=None, names=["Accession1", "Accession2"])
 matching_pairs = pd.DataFrame(columns=["Accession1", "Accession2"])
 for _, row in df1.iterrows():
