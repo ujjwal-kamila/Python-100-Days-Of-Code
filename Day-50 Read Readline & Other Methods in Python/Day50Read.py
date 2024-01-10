@@ -1,6 +1,6 @@
 #Day-50 Read Readline & Other Methods in Python
 
-f = open('myfile.txt', 'r')
+f = open('1.txt', 'r')
 i = 0
 while True:
   i = i + 1
@@ -16,7 +16,7 @@ while True:
 
   print(line)
 
-f = open('myfile2.txt', 'w')
-lines = ['line 1\n', 'line 2\n', 'line 3\n']
-f.writelines(lines)
+# f = open('myfile2.txt', 'w')
+# lines = ['line 1\n', 'line 2\n', 'line 3\n']
+# f.writelines(lines)
 #f.close()
