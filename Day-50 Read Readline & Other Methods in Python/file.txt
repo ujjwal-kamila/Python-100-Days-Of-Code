@@ -1,0 +1,3 @@
+readlines() method :
+Hii My name is Ujjwal Kamila 
+I am from Gopiballavpur,Jhargram
