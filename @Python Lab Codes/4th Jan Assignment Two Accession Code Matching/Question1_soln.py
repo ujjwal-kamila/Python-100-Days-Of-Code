@@ -6,7 +6,7 @@ df1 = pd.read_csv(file1_path)
 
 # Read the second file with specific headers
 file2_path = "e_file.csv"
-df2 = pd.read_csv(file2_path, header=None, names=["Accession1", "Accession2"])
+df2 = pd.read_csv(file2_path, header=None, names=["Accession(1)", "Accession(2)"])
 
 # Function to check if any accession code is present in a row of df2
 def check_accession(row):
