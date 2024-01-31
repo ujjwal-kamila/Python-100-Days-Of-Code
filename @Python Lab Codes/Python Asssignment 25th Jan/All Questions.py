@@ -1,3 +1,5 @@
+# Python assignment on Random Module 
+
 import random
 
 # Part 1
