@@ -1,4 +1,4 @@
-# Python assignment on Random Module 
+# All Ans Python assignment on Random Module 
 
 import random
 
