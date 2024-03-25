@@ -35,5 +35,4 @@ def mysum(x, y):
   
 sum = reduce(mysum, numbers)
 
-# Print the sum
 print(sum)
